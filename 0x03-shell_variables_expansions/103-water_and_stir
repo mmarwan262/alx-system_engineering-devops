@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "ibase=water\nobase=bestchol\n${WATER}+${STIR}\n" | bc
